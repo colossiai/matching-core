@@ -334,5 +334,6 @@ cargo test --test edge_cases_test --release
 - `smallvec`: 小向量优化
 - `serde`: 序列化框架
 
-
+## 提示
+- 这个项目是从生产上copy出来的，只有大致的逻辑，并没有经过生产环境的检验，仅供学习。
 
